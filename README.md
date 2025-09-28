@@ -7,7 +7,7 @@ This project is a Spring Boot–based microservice application built as part of 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/forage-midas.git
+git clone https://github.com/<metadroix35>/forage-midas.git
 cd forage-midas
 ````
 
